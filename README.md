@@ -2,9 +2,9 @@
 
 ![alt tag](https://raw.githubusercontent.com/fsiamp/dogeponny/master/TEr0vl1426001980.png)
 
-URL: http://dogeponny.com/
-
 ![alt tag](https://s22.postimg.org/6xxee31oh/Screen_Shot_2016_08_28_at_11_58_35_AM.png)
+
+URL: http://dogeponny.com/
 
 For each click on 'Pay Me' button, you can earn 2.00 DOGE!
 
