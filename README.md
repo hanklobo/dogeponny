@@ -1,4 +1,4 @@
-# Dogeponny - Faucet that enables users to earn unlimited dogecoins
+# Dogeponny - Faucet that enables users to earn free dogecoins
 
 ![alt tag](https://raw.githubusercontent.com/fsiamp/dogeponny/master/TEr0vl1426001980.png)
 
