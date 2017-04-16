@@ -2,7 +2,7 @@
 
 ![alt tag](https://raw.githubusercontent.com/fsiamp/dogeponny/master/TEr0vl1426001980.png)
 
-![alt tag](https://s22.postimg.org/6xxee31oh/Screen_Shot_2016_08_28_at_11_58_35_AM.png)
+![alt tag](https://raw.githubusercontent.com/fsiamp/dogeponny/master/generate.png)
 
 URL: http://dogeponny.appspot.com
 
