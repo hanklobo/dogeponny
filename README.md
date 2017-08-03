@@ -19,4 +19,4 @@ Everyone is able to click the 'Pay Me' button <b>unlimited times.</b><br>
 
 In this system even one simple user can win thousands or even millions of dogecoins!
 
-Dogeponny was made in PHP and makes use of Tumblr and Block.io API. 
+Dogeponny was made in PHP and makes use of Block.io API and Heroku for deployment. 
