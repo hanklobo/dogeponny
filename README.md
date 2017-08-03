@@ -4,7 +4,7 @@
 
 ![alt tag](https://raw.githubusercontent.com/fsiamp/dogeponny/master/generate.png)
 
-URL: http://dogeponny.appspot.com
+URL: http://dogeponny.herokuapp.com
 
 For each click on 'Pay Me' button, you can earn 2.00 DOGE!
 
