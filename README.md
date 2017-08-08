@@ -4,7 +4,11 @@
 
 ![alt tag](https://raw.githubusercontent.com/fsiamp/dogeponny/master/generate.png)
 
-URL: http://dogeponny.herokuapp.com
+<b>Faucet URL</b>: http://dogeponny.herokuapp.com
+
+<b>Google Appspot URL</b>: http://dogeponny.appspot.com/
+
+<b>Google Play Store URL</b>: https://play.google.com/store/apps/details?id=appinventor.ai_fsiamp.Dogeponny
 
 For each click on 'Pay Me' button, you can earn 2.00 DOGE!
 
