@@ -5,6 +5,7 @@
 ![alt tag](https://raw.githubusercontent.com/fsiamp/dogeponny/master/generate.png)
 
 <b>Faucet URL</b>: http://dogeponny.herokuapp.com
+<b>Mirror Site</b>: http://dogeponny-system.tumblr.com
 
 <b>Google Appspot URL</b>: http://dogeponny.appspot.com/
 
